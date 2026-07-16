@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
-  "downloadUrl": "https://github.com/Vequx/maskron-updates/releases/download/v2.4.1/Maskron-2.4.1.exe",
-  "releaseNotes": "Fixed blank screen after splash screen on startup"
+  "version": "2.4.2",
+  "downloadUrl": "https://github.com/Vequx/maskron-updates/releases/download/v2.4.2/Maskron-2.4.2.exe",
+  "releaseNotes": "Fixed: newly generated keys now work immediately without restarting the app"
 }
