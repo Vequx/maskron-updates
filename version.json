@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
-  "downloadUrl": "https://github.com/Vequx/maskron-updates/releases/download/v2.4.0/Maskron-2.4.0.exe",
+  "version": "2.5.0",
+  "downloadUrl": "https://github.com/Vequx/maskron-updates/releases/tag/v2.4.0",
   "releaseNotes": "Casino sounds, splash screen, volume control, admin panel fixes, remember me, auto-update"
 }
